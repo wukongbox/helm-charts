@@ -1,2 +1,3 @@
-sign: true
+# set false if ignore sign 
+sign: false
 key: wukongbox
